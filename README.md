@@ -1,2 +1,2 @@
-# ai-evo-skills
-AI共同进步小组skills仓库
+# ai-evo-knowledge
+AI共同进步小组经验仓库
