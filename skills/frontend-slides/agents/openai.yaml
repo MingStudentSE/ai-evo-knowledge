@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frontend Slides"
+  short_description: "Build distinctive HTML slide decks or convert PPTX to web slides."
+  default_prompt: "Use $frontend-slides to create a single-file HTML presentation from my content or convert my PPTX into web slides."
+
+policy:
+  allow_implicit_invocation: true
